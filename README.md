@@ -36,7 +36,7 @@ The system provides the following features:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 The project was developed using the following technologies:
 
@@ -51,32 +51,8 @@ The project was developed using the following technologies:
 
 ---
 
-# System Architecture
 
-The system follows a simple layered architecture:
 
-```
-Supermarket Inventory Management System
-
-        +----------------------+
-        |     JavaFX UI        |
-        |  Dashboard / Forms   |
-        +----------+-----------+
-                   |
-                   |
-        +----------+-----------+
-        |   Logic Layer        |
-        |     Inventory       |
-        +----------+-----------+
-                   |
-                   |
-        +----------+-----------+
-        |    Model Layer       |
-        |      Product         |
-        +----------------------+
-```
-
----
 
 # Project Structure
 
